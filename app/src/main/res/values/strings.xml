@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Homework21</string>
+    <string name="button">Включить цвет</string>
+    <string name="chose_color">Выберите цвет</string>
+    <string-array name="Colors">
+        <item>Чёрный</item>
+        <item>Белый</item>
+        <item>Красный</item>
+        <item>Зелёный</item>
+        <item>Жёлтый</item>
+        <item>Синий</item>
+    </string-array>
 </resources>
